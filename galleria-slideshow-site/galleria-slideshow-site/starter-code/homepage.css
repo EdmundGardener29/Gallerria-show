@@ -40,9 +40,8 @@
   letter-spacing: 2.57143px;
   color: #7d7d7d;
   text-decoration: none;
-  /* width: %; */
-  left: 20rem;
-  /* margin-top: -2rem; */
+  width: 750%
+
 }
 
 .header-link:hover {
@@ -51,7 +50,6 @@
 /*Divider*/
 .divider {
   border: 2px solid #030303;
-  /* flex-basis: 100%; */
  margin-top: -2rem;
 }
 
@@ -180,20 +178,20 @@
 }
 
 .item2 {
-  background-image: url(./assets/girl-with-pearl-earring/thumbnail.jpg);
+  background-image: url(./assets/the-storm-on-the-sea-of-galilee/thumbnail.jpg);
   background-size: cover;
 }
 .item3 {
-  background-image: url(./assets/guernica/thumbnail.jpg);
+  background-image: url(./assets/lady-with-an-ermine/thumbnail.jpg);
   background-size: cover;
 }
 .item4 {
-  background-image: url(./assets/penitent-magdalene/thumbnail.jpg);
+  background-image: url(./assets/the-boy-in-the-red-vest/thumbnail.jpg);
   background-size: cover;
 }
 
 .item5 {
-  background-image: url(./assets/the-storm-on-the-sea-of-galilee/thumbnail.jpg);
+  background-image: url(./assets/girl-with-pearl-earring/thumbnail.jpg);
   background-size: cover;
 }
 
@@ -203,19 +201,19 @@
 }
 
 .item7 {
-  background-image: url(./assets/van-gogh-self-portrait/thumbnail.jpg);
+  background-image: url(./assets/the-night-cafe/thumbnail.jpg);
   background-size: cover;
 }
 .item8 {
-  background-image: url(./assets/the-sleeping-gypsy/thumbnail.jpg);
+  background-image: url(./assets/arnolfini-portrait/thumbnail.jpg);
   background-size: cover;
 }
 .item9 {
-  background-image: url(./assets/lady-with-an-ermine/thumbnail.jpg);
+  background-image: url(./assets/guernica/thumbnail.jpg);
   background-size: cover;
 }
 .item10 {
-  background-image: url(./assets/the-night-cafe/thumbnail.jpg);
+  background-image: url(./assets/van-gogh-self-portrait/thumbnail.jpg);
   background-size: cover;
 }
 .item11 {
@@ -223,21 +221,21 @@
   background-size: cover;
 }
 .item12 {
-  background-image: url(./assets/the-basket-of-apples/thumbnail.jpg);
+  background-image: url(./assets/penitent-magdalene/thumbnail.jpg);
   background-size: cover;
 }
 .item13 {
-  background-image: url(./assets/the-boy-in-the-red-vest/thumbnail.jpg);
+  background-image: url(./assets/the-sleeping-gypsy/thumbnail.jpg);
   background-size: cover;
 }
 .item14 {
-  background-image: url(./assets/arnolfini-portrait/thumbnail.jpg);
+  background-image: url(./assets/the-basket-of-apples/thumbnail.jpg);
   background-size: cover;
 }
 .item15 {
   background-image: url(./assets/the-swing/thumbnail.jpg);
   background-size: cover;
-}  
+}   */
 
 .column > h1,
 p {
