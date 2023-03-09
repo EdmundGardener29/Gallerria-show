@@ -40,7 +40,8 @@
   letter-spacing: 2.57143px;
   color: #7d7d7d;
   text-decoration: none;
-  width: 750%
+  width: 60rem;
+  cursor: pointer;
 
 }
 
@@ -59,20 +60,9 @@
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 2.5rem;
+  /* background: yellow; */
 }
 
-/*Gallery-images*/
-/* 
-.gallery-column-2 > * {
-  background-color: coral;
-}
-.gallery-column-3 > * {
-  background-color: rgb(188, 157, 145);
-}
-
-.gallery-column-4 > * {
-  background-color: crimson;
-} */
 
 .gallery-column-1 {
   display: grid;
@@ -309,6 +299,21 @@ p {
     padding: 16px;
     z-index: 999;
   }
+  .header-link {
+    font-family: "Libre Baskerville";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: right;
+    letter-spacing: 2.57143px;
+    color: #7d7d7d;
+    text-decoration: none;
+    width: 25rem;
+    margin-right: 16rem;
+}
+
+
 }
 
 /*******************************************************/
